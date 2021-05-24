@@ -1,4 +1,4 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using jenkins </h2>
+<h1> THIS IS PIPELINE AS A CODE PROJECT </h1>
+<h2> Declerative script </h2>
 
 
